@@ -30,6 +30,7 @@ Pero basta de palabrería, hemos venido a ver ejemplos, no a escribir El Softwar
 
 ## Dispatch, ¿Un videojuego con formato de serie? ¿O una serie con formato de videojuego?
 ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592160/fcfd39596c29e58f0d0c44ca56b8490d91fb3b76/capsule_616x353.jpg?t=1764278303)
+
 **Dispatch**, *para el que no haya seguido los lanzamientos del presente y casi acabado año 2025*, es un videojuego inspirado en las obras del ya cerrado estudio Telltale Games. Estudio reconocido principalmente por tener un esquema para sus juegos bien establecido entre todos ellos: Aventuras narradas principalmente en un formato de serie de TV, con un pequeño toque marca de la casa: La libertad de elegir el rumbo de la historia a través de elementos interactivos que "Saltan" a lo largo de la historia narrada.
 
 ![.](https://imgix.bustle.com/inverse/93/1a/a2/a4/dfe0/46cd/b690/7add88867ec4/the-walking-dead-choicesjpg.jpeg?w=825&h=468&fit=crop&crop=faces&dpr=2)
