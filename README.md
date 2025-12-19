@@ -90,8 +90,9 @@ La hibridación es, como concepto, difícil de definir exactamente en simples pa
  **1. ¿Es un caso de multimedia?**
  Si lo es, descartamos directamente el caso.
  
- **2. ¿Nace un nuevo formato, u objeto, para representar medios ya conocidos anteriormente?**
- 3. Y finalmente **¿Llega la interfaz a ser una vía para interactuar entre, anteriormente, medios exclusivamente distintos entre sí?**
+ **2. ¿Nace un nuevo formato, u objeto, para representar medios ya conocidos anteriormente?** 
+ 
+ **3. ¿Llega la interfaz a ser una vía para interactuar entre, anteriormente, medios exclusivamente distintos entre sí?**
  
 Con estas 3 preguntas, cualquiera puede analizar un caso y percatarse por si mismo si se encuentra un caso de hibridación, y ahora, ¡Tu también puedes! ~~O capaz no, si ya has estudiado del tema antes, como probablemente sea el caso.~~
 
