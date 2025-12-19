@@ -56,7 +56,7 @@ Podríamos argumentar, de hecho, que esto no es un caso de hibridación. ¿Qué 
 
 Si, somos capaces de distinguir entre las dos secciones que componen a la obra en si, pero, realmente como ya hemos mencionado antes, **NO** están aisladas entre si. La información que el jugador manipula, inconscientemente o no, es procesada por el programa para determinar la secuencia de la historia actual y los estados del grupo en las secciones jugables, dando fruto a un nuevo objeto narrativo que no sería posible con únicamente las técnicas narrativas convencionales del cine. Dándose, pues, un ejemplo claro de hibridación.
 
-> Manovich, al exponer el ejemplo de Google Earth, afirma que una forma de lograr la hibridación se da al "Representar el mundo o nuestra experiencia de forma novedosa (...) reconfigurando las representaciones de medios que ya conocemos
+> Manovich, al exponer el ejemplo de Google Earth, afirma que una forma de lograr la hibridación se da al "Representar el mundo o nuestra experiencia de forma novedosa (...) reconfigurando las representaciones de medios que ya conocemos"
 
 Asi que, respondiendo a la pregunta del encabezado; Manovich, comentando sobre *El Mapa Fílmico De Aspen*, afirmó que ese nombre implicaba paradójicamente que no era ni un mapa ni una película, era su **propio** medio híbrido de ambas. Capaz esa es la respuesta final al caso de Dispatch. Dispatch por hibridación es un caso único que no acaba siendo ni una serie convencional ni un videojuego típico y eso, en mi opinión, lo deja como un fascinante ejemplo sencillo para entender la hibridación.
 
