@@ -103,11 +103,11 @@ Manovich, L. (2013) '**La hibridación**'. En: _El Software Toma El Mando_. Nuev
 
 Imágenes con contenido protegido de las siguientes obras:
 
-(2024) _Triangle Strategy_ [videojuego]. Tokyo, Japón: Square Enix. Disponible en: https://www.meta.com/en-gb/experiences/triangle-strategy/5340130476095884/(Consultado: 18 de Diciembre de 2025).
+(2024) _Triangle Strategy_ [videojuego]. Tokyo, Japón: Square Enix. Disponible en: https://www.meta.com/en-gb/experiences/triangle-strategy/5340130476095884/ (Consultado: 18 de Diciembre de 2025).
 
-(2025) _Dispatch_ [videojuego]. California, USA: Adhoc Studio. Disponible en: https://store.steampowered.com/app/2592160/Dispatch/(Consultado: 18 de Diciembre de 2025).
+(2025) _Dispatch_ [videojuego]. California, USA: Adhoc Studio. Disponible en: https://store.steampowered.com/app/2592160/Dispatch/ (Consultado: 18 de Diciembre de 2025).
 
-(2012) _The Walking Dead Season 1_  [videojuego]. California, USA: Telltale Games. Disponible en: https://store.steampowered.com/app/207610/The_Walking_Dead/(Consultado: 18 de Diciembre de 2025).
+(2012) _The Walking Dead Season 1_  [videojuego]. California, USA: Telltale Games. Disponible en: https://store.steampowered.com/app/207610/The_Walking_Dead/ (Consultado: 18 de Diciembre de 2025).
 
 
 Imágenes sacadas de los siguientes enlaces web por orden de aparición:
